@@ -1,7 +1,6 @@
-```markdown
+# JavaScript Comprehensive Guide
 
-
-# A1
+##A1
 # Difference between var, let, and const in JavaScript
 
 JavaScript provides three ways to declare variables: `var`, `let`, and `const`. They differ in **scope, hoisting, TDZ, and re-declaration/re-assignment behavior**.
