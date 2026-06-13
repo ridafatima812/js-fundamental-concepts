@@ -1,7 +1,7 @@
 ```markdown
 
 
-##A1
+# A1
 # Difference between var, let, and const in JavaScript
 
 JavaScript provides three ways to declare variables: `var`, `let`, and `const`. They differ in **scope, hoisting, TDZ, and re-declaration/re-assignment behavior**.
@@ -141,7 +141,7 @@ Modern JavaScript recommends:
 
 ---
 
-##A2
+# A2
 # V8 Engine and JavaScript Single-Threaded Model
 
 JavaScript execution is powered by the **V8 engine** and follows a **single-threaded, event-driven model**.
@@ -295,7 +295,7 @@ Even though JavaScript is single-threaded, it can still handle async operations 
 
 ---
 
-##A3
+# A3
 # JavaScript Data Types & Type Coercion
 
 JavaScript has **8 data types** and a behavior called **type coercion**, where values are converted from one type to another.
@@ -455,7 +455,7 @@ Boolean(1) // true
 
 ---
 
-##A4
+# A4
 # Primitive vs Non-Primitive (Reference) Data Types in JavaScript
 
 JavaScript data types are divided into **Primitive types** and **Non-Primitive (Reference) types**. The main difference is how they are stored and copied in memory.
@@ -576,7 +576,7 @@ obj2 ----^ (same reference)
 
 ---
 
-##A5
+# A5
 # Pass by Value vs Pass by Reference in JavaScript
 
 JavaScript function arguments behave in a specific way that is often misunderstood. It is important to know whether JavaScript is truly "pass by reference" or not.
@@ -723,7 +723,7 @@ console.log(user.age); // 30 (changed)
 
 ---
 
-##A6
+# A6
 # Functions in JavaScript
 
 A **function** in JavaScript is a reusable block of code designed to perform a specific task. Instead of writing the same code again and again, we wrap it inside a function and call it whenever needed.
